@@ -1,11 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=58A6FF&center=false&vCenter=false&multiline=true&repeat=false&width=800&height=100&lines=Hi%2C+I%27m+Coren+%F0%9F%91%8B;Fullstack+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=58A6FF&center=false&vCenter=false&multiline=true&repeat=false&width=900&height=140&lines=Hi%2C+I%27m+Coren+%F0%9F%91%8B;Fullstack+Software+Engineer+%C2%B7+7%2B+years;Shopify+Headless+Certified+%F0%9F%9B%8D%EF%B8%8F)](https://git.io/typing-svg)
+
+<div align="right">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coren-ancco/)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corenancco@gmail.com)
 
+</div>
+
 ## About me
 
-Fullstack engineer with 7+ years shipping products end-to-end — from GraphQL APIs to React frontends to Shopify storefronts. I hold a M.Sc. in CS with a focus on AI & Computer Vision, and I bring that curiosity into everything I build.
+Experienced fullstack engineer shipping products end-to-end — from GraphQL APIs to React frontends to Shopify storefronts. I hold a M.Sc. in CS with a focus on AI & Computer Vision, and I bring that curiosity into everything I build.
 
 I'm always excited to jump into new projects, especially ones where there's something new to learn. If you're building something interesting, I'd love to be part of it — let's talk!
 
@@ -34,6 +38,9 @@ I'm always excited to jump into new projects, especially ones where there's some
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Auth
+
 ![JWT](https://img.shields.io/badge/JWT-FB015B?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge)
 
@@ -53,6 +60,11 @@ I'm always excited to jump into new projects, especially ones where there's some
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+### AI / LLMs
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Tools
 
