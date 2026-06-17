@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=58A6FF&center=false&vCenter=false&multiline=true&repeat=false&width=900&height=140&lines=Hi%2C+I%27m+Coren+%F0%9F%91%8B;Fullstack+Software+Engineer+%C2%B7+7%2B+years;Shopify+Headless+Certified+%F0%9F%9B%8D%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=58A6FF&center=false&vCenter=false&multiline=true&repeat=false&width=900&height=90&lines=Hi%2C+I%27m+Coren+%F0%9F%91%8B;Fullstack+Software+Engineer+%C2%B7+7%2B+years)](https://git.io/typing-svg)
 
 <div align="right">
 
